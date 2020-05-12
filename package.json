@@ -1,6 +1,6 @@
 {
   "name": "paulinalukarska-card",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "A personal card for Paulina Lukarska",
   "main": "/bin/card.js",
   "bin": {
